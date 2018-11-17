@@ -17,7 +17,7 @@ ms.locfileid: "49086390"
 Docker 개발 워크플로에 대 한 Visual Studio Tools-Visual Studio Code 및 Docker CLI를 사용 하는 경우 워크플로가 비슷합니다. 실제로 동일한 Docker CLI는 기반 하지만 시작 하기가, 프로세스를 단순화 하 고 향상 된 생산성을 제공 합니다. 빌드를 실행 하 고 작업을 구성 합니다. 실행 및 디버그와 같은 간단한 작업을 통해 컨테이너 **F5** 하 고 **Ctrl**+**F5**합니다. 실행 하 고 단일 컨테이너를 디버그할 수 있을 뿐 아니라 선택적 컨테이너 오케스트레이션 지원 기능을 사용 하 여 실행 하 고 동시에 컨테이너 (전체 솔루션)의 그룹을 디버그할 수 있습니다.
 
 > [!NOTE]
-> 이 문서에서는 mac 용, Windows에서 Visual Studio 및 Visual Studio가 아니라에 적용 됩니다.
+> 이 문서는 Mac상의 Visual Studio가 아니라, Window상의 Visual Studion에 적용됩니다. 
 
 ## <a name="configure-your-local-environment"></a>로컬 환경 구성
 
